@@ -1,4 +1,4 @@
-#GifMaker - a simple script to generate gifs from images
+# GifMaker - a simple script to generate gifs from images
 
 This program is just a proof of concept and quality-of-life tool that makes generating gifs simple.
 
