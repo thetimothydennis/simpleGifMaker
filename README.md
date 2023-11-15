@@ -1,4 +1,4 @@
-GifMaker - a simple script to generate gifs from images
+#GifMaker - a simple script to generate gifs from images
 
 This program is just a proof of concept and quality-of-life tool that makes generating gifs simple.
 
@@ -6,7 +6,9 @@ This script depends on ffmpeg being installed to generate the gif from static im
 
 To use the script, place images in the sourceImgs folder, and title your images as follows:
 
+```
    <pattern>-<digit>.<extension>
+```
 
 where <pattern> is the same filename prefix in every image, <digit> is a number that increments sequentially with each progressive image, and <extension> is the file extention for your images.
 
